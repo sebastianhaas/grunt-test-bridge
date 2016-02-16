@@ -1,7 +1,7 @@
 {
   "name": "grunt-test-bridge",
   "description": "A grunt plugin for test-bridge.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/sebastianhaas/grunt-test-bridge",
   "author": {
     "name": "Sebastian Haas",
